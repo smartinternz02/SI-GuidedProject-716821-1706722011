@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_17</name>
+   <tag></tag>
+   <elementGuidId>1d3ad382-309e-4b76-af15-91294057db96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div[2]/div/div[3]/div[17]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-calendar-date.--today</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e8f92c1-54d7-437e-9938-782bfbbc48f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-calendar-date --today</value>
+      <webElementGuid>77d4a741-7a7a-42bf-8fdd-536ec2cd2a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>17</value>
+      <webElementGuid>b905e55e-2b33-4ead-bba1-01f77bfe14ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-date-wrapper&quot;]/div[@class=&quot;oxd-date-input-calendar&quot;]/div[@class=&quot;oxd-calendar-wrapper&quot;]/div[@class=&quot;oxd-calendar-dates-grid&quot;]/div[@class=&quot;oxd-calendar-date-wrapper&quot;]/div[@class=&quot;oxd-calendar-date --today&quot;]</value>
+      <webElementGuid>7b4bbbcc-c83b-471a-b9fb-a1c93149b25b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/div/div[2]/div/div[3]/div[17]/div</value>
+      <webElementGuid>7a9b295a-7461-42fd-baf7-42e23aaf6e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div</value>
+      <webElementGuid>b4dfa008-1aa0-4916-b455-5a4103754551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '17' or . = '17')]</value>
+      <webElementGuid>93fbd4e6-d81c-42b3-beed-6d33f3178833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
