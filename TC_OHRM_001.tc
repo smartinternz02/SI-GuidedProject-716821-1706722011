@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OHRM_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88bdb71e-b6cc-48f6-910c-b2510127f4f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c8f8072-3859-4440-9600-be00d8c07601</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c8f8072-3859-4440-9600-be00d8c07601</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
